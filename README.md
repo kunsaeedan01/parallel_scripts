@@ -1,0 +1,1 @@
+This scripts used to test API calls for sequential, parallel, distributed computing using standard threads, multiprocessing, Ray libraries. Notice that API call is replaced to sample API, while testing was done on private API.
